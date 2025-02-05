@@ -19,7 +19,7 @@ function validarTexto($cadena) {
 }
 
 // Paso 1-Ingresa una palabra o frase de texto
-$entrada1 = "Oso";
+$entrada1 = "Osooo";
 echo validarTexto($entrada1);
 $entrada2 = "Anita lava la tina";
 echo validarTexto($entrada2);
